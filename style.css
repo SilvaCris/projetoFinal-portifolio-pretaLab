@@ -1,0 +1,187 @@
+
+* {    
+    margin: 0;    
+    padding: 0;    
+    outline: 0;
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+}
+
+li {
+    
+    list-style: none;
+}
+
+#foto {
+       border-radius: 40px;  
+   }
+
+.header-menu{
+    
+    display: flex;
+    position: fixed; 
+    width: 100%; 
+    padding: 8px; 
+    padding-bottom: 32px; 
+    padding-top: 32px;
+    height: 60px; 
+    background-color: #00BF63; 
+}
+
+.header-menu nav {
+    display: flex; 
+    justify-content: flex-end;
+    width: 100%; 
+}
+
+.lista-menu{
+    display: flex;
+    justify-content: space-evenly; 
+    width: 50%; 
+    align-items: center; 
+}
+
+
+.lista-menu li>a {
+    color: #FFFF; 
+    font-size: 18px;
+    text-decoration: inherit;
+    
+}
+
+.principal{
+    height: 100vh;
+    display: flex;
+    background-color: #EAEAEA;
+    padding-top: 100px;
+}
+
+.container {
+    margin-right: auto; 
+    margin-left: auto; 
+    margin-top: 200px;
+    max-width: 960px; 
+    padding-right: 10px; 
+    padding-left: 10px; 
+    width: 100%; 
+    
+}
+
+.subcontainer-principal{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding-bottom: 200px;     
+  margin-top:200px ;    
+   
+}
+
+.nome-completo {
+    font-size: 36px;
+    color: #8C52FF;
+    font-weight: 700; 
+    height: 45px;
+}
+
+.texto-sobre {
+    font-size: 20px;
+    line-height: 20px; 
+}
+
+.profissao {
+    color: #00BF63;
+    height: 60px; 
+}
+
+.topico-principal {
+    font-size: 36px;
+    color: #8C52FF;
+}
+
+
+.section-lista {
+    display: flex;
+    margin-bottom: 60px;
+    margin-top: 60px;
+    flex-direction: column;
+}
+.lista-item {
+    padding: 32px;  
+}
+
+.lista-item ul li {
+    margin-bottom: 32px; 
+}
+
+.lista-titulo {
+    margin-bottom: 5px; 
+    font-size: 22px;
+    color: #00BF63;
+    font-weight: 700;
+}
+
+.lista-local {
+    font-size: 18px;
+    color: #2F80ED;
+}
+
+.lista-descricao {
+    font-size: 18px;
+    margin-top: 5px;
+    line-height: 20px; 
+    color: black;
+    font-weight: 300;
+}
+
+.formacao {
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+}
+
+.projetos {
+    background-color: #EAEAEA;
+    display: flex;
+    flex-direction: column;
+}
+
+
+.container-footer {
+    margin-right: auto; 
+    margin-left: auto; 
+    max-width: 960px; 
+    padding-right: 10px; 
+    padding-left: 10px; 
+    width: 100%; 
+}
+
+.footer {
+    background-color: #00BF63;
+    height: 300px;
+    display: flex;
+    align-items: center;
+}
+
+.estilo-icon {
+    font-size: 32px;
+    margin-right: 10px;
+}
+
+.links {
+    text-decoration:none;
+    color: white;
+}
+
+.lista-footer li {
+    color: #FFFF;
+    font-weight: 700;
+    font-size: 18px;
+    margin-bottom: 16px;
+    display: flex;
+    align-items: center;
+}
