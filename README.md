@@ -10,4 +10,6 @@ O objetivo deste projeto é demonstrar minha capacidade de criar páginas web.
 ## Estrutura
 O projeto foi desenvolvido utilizando HTML para a estrutura e conteúdo, e CSS para a estilização visual. 
 
-#### Acesse https://portifolio-crislaine.netlify.app/ para visualizar  meu portfólio!# projetoFinal-portifolio-pretaLab
+#### Acesse https://portifolio-crislaine.netlify.app/ para visualizar  meu portfólio!
+
+# projetoFinal-portifolio-pretaLab
