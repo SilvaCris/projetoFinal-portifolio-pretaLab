@@ -1,4 +1,4 @@
-# Portfólio Pessoal - Projeto Módulo II PretaLab
+# Portfólio Pessoal - Projeto Módulo II - Ciclo Formativo PretaLab
 Este é o meu portfólio pessoal, criado durante as aulas de HTML e CSS do Ciclo Formativo: O Poder do futuro, oferecido pela PretaLab com apoio da Disney. 
 
 O portfólio é uma representação visual das minhas habilidades técnicas e criativas desenvolvidas durante essa formação.

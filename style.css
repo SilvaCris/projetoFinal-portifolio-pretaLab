@@ -42,13 +42,26 @@ li {
     justify-content: space-evenly; 
     width: 50%; 
     align-items: center; 
-}
+    }
 
 
 .lista-menu li>a {
     color: #FFFF; 
     font-size: 18px;
-    text-decoration: inherit;
+    font-weight: 800;
+    text-decoration:inherit;
+    transition: background-color 0.3s, color 0.3s, box-shadow 0.3s;
+   
+    
+}
+
+.lista-menu li>a:hover {
+    background-color: #eee4e453; 
+    padding: 20px;
+    border-radius: 20px;
+    font-size: 20px;
+   
+   
     
 }
 
